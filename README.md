@@ -9,6 +9,6 @@
 
 >Green line is the enemy so there was higher steaks in the game. By clashing with this line with the snake, the game stops and the user will have to restart the game to get a higher score.
 
->Red triangles. These are obstructions that range in size. If the snake collide with these objects the game stops.
+>Red triangles. These are obstructions that range in size and appears all over the map sqaure (the red box). If the snake collide with these objects the game stops.
 
->Timer
+>Timer. In the bottom left corner, there is a count of the seconds played in the game. It allows for players to compare times and see who is the better gamer. 
