@@ -10,8 +10,8 @@ Python:
 Visual Basic:
 >Selection of text boxes
 
-PowerShell:
->Sorting numbers from a file
-
 BBC Mircos:
 >Snake Game
+
+PowerShell:
+>Sorting numbers from a file
