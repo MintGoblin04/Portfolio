@@ -3,6 +3,7 @@
 > I coded this game when I visited the Nation Museum of Computing at Bletchy Park.
 > Here I learnt about the command line interface and programes a game on Snake on it.
 > It was difficult at first due to the fact I was use to the standard QWERTY keybaord but I soon overcame this.
+> It was a lot of fun to take part in and gave me an insight on how to use different user interfaces.
 
 # Variables in the game:
 >Mutli-Coloured line is the snake. Here is the character the user will be controlling and determines if the game stops. I could of chosen any colour but I thought a rainbow snake was more interesting to look at.
