@@ -17,7 +17,7 @@ BBC Mircos:
 
 PowerShell:
 >Sorting numbers from a file 
->-Need to be created
+>-Need to be transfered and worked on
 
 Website:
 >Hot Beans
