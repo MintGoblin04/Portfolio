@@ -2,8 +2,8 @@
 Module : Dice Game
 Description: The players roll two 6-sided dice each and gets points depending on what tehy roll.
 There are 3 rounds in a game. In each round, each playyer rolls two dice.
-Date: 06/02/2022
-Version: 1.1
+Date: 19/02/2022
+Version: 1.3
 '''
 import random
 
