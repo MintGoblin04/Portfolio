@@ -5,20 +5,19 @@ At the moment, I am focusing on Python as this is the main programming language 
 Python:
 >Dice Game
 >>Turtle Race Game
->>(NEED TO BE UPLOADED)
 >>>Pong Game
->>>(NEED TO BE UPLOADED)
+>>>-Need to be created
 
 Visual Basic:
 >Selection of text boxes
-(NEED TO BE UPLOADED)
+>-Need to be created
 
 BBC Mircos:
 >Snake Game
 
 PowerShell:
 >Sorting numbers from a file 
-(NEED TO BE UPLOADED)
+>-Need to be created
 
 Website:
 >Hot Beans
