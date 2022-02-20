@@ -5,14 +5,14 @@ At the moment, I am focusing on Python as this is the main programming language 
 Python:
 >Dice Game
 >>Turtle Race Game
->>>Pong Game
+>>>Pong Game -Needs to be created
 >>>>https://github.com/ParaFalls/Portfolio/tree/Python
->>>-Need to be created
+
 
 Visual Basic:
->Selection of text boxes
+>Selection of text boxes -Needs to be created
 >>https://github.com/ParaFalls/Portfolio/tree/Visual-Basic
->-Need to be created
+
 
 BBC Mircos:
 >Snake Game
@@ -21,7 +21,7 @@ BBC Mircos:
 PowerShell:
 >Sorting numbers from a file 
 >>https://github.com/ParaFalls/Portfolio/tree/PowerShell
->-Need to be transfered and worked on
+
 
 Website:
 >Hot Beans
