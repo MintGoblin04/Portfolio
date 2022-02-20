@@ -10,7 +10,7 @@ Python:
 
 
 Visual Basic:
->Selection of text boxes -Needs to be created
+>Times tables
 >>https://github.com/ParaFalls/Portfolio/tree/Visual-Basic
 
 
