@@ -5,7 +5,7 @@ At the moment, I am focusing on Python as this is the main programming language 
 Python:
 >Dice Game
 >>Turtle Race Game
->>>Pong Game -Needs to be created
+>>>Pong Game - Future Project
 >>>>https://github.com/ParaFalls/Portfolio/tree/Python
 
 
