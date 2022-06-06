@@ -1,5 +1,5 @@
 # Python:
->Dice Game
+>Cookie Clicker
 >>Turtle Race Game
->>>Cookie Clicker Game
+>>>Game Dice Game
 
